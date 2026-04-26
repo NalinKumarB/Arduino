@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Replace with your WiFi credentials
-const char* ssid = "ROLEX";
-const char* password = "NALIN1710";
+const char* ssid = "WIFI_NAME";
+const char* password = "WIFI_PASSWORD";
 
 WebServer server(80);
 
